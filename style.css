@@ -114,3 +114,17 @@ p {
   }
 
 }
+.btn {
+  display: inline-block;
+  padding: 12px 20px;
+  background: #1f1f1f;
+  border: 1px solid #333;
+  border-radius: 10px;
+  color: white;
+  text-decoration: none;
+  transition: 0.3s;
+}
+
+.btn:hover {
+  background: #2a2a2a;
+}
